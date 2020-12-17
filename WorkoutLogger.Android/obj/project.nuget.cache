@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdknGRXKEGUFBvLExUKp9rMZbcQ1KLXMTK9CDF5xXKoJ5sIbnMD+pzsEIHCZERrMlKKGQHOrU7n4tFgGQ2Sk7g==",
+  "dgSpecHash": "Tja5UxY5fUD6Dj+b/eJ5tjigkfo3eqjve2GainQGNf4ii2MV4b9Nl6VH/aSbNqIv5nJiz2WqquoimacZZ97eTg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
+  "projectFilePath": "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

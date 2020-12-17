@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnPD8JLSO9Jxr2uN3lL+7aHSHmuf6Yr1vhz8amsmS49biiA7JMSDAHVBMzlnTL8g1n7t4mEy47NcFNHXF1sQWA==",
+  "dgSpecHash": "KrTpiWwthT2PPr01+98wZdmm3hudxjT9addJXj/BMDJBUIRb3jvL+oyoCZcVbbRjK4bS2nlresl2a/fMidUH2A==",
   "success": true,
-  "projectFilePath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
+  "projectFilePath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PCADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PCADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

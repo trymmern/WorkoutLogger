@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
+      "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
       "projectName": "WorkoutLogger",
-      "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
+      "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
       "packagesPath": "C:\\Users\\PCADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\obj\\",
+      "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.iOS\\WorkoutLogger.iOS.csproj",
+      "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger.iOS\\WorkoutLogger.iOS.csproj",
       "projectName": "WorkoutLogger.iOS",
-      "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.iOS\\WorkoutLogger.iOS.csproj",
+      "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger.iOS\\WorkoutLogger.iOS.csproj",
       "packagesPath": "C:\\Users\\PCADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.iOS\\obj\\",
+      "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
-              "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj"
+            "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
+              "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj": {}
+    "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj": {}
   },
   "projects": {
-    "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj": {
+    "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
+        "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
         "projectName": "WorkoutLogger.Android",
-        "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
+        "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\WorkoutLogger.Android.csproj",
         "packagesPath": "C:\\Users\\PCADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.Android\\obj\\",
+        "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
-                "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj"
+              "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
+                "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
+    "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
+        "projectUniqueName": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
         "projectName": "WorkoutLogger",
-        "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
+        "projectPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger.csproj",
         "packagesPath": "C:\\Users\\PCADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\WorkoutLogger\\obj\\",
+        "outputPath": "C:\\dev\\WorkoutLogger\\WorkoutLogger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
