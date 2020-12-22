@@ -5,11 +5,12 @@ using Xamarin.Forms;
 
 namespace WorkoutLogger.ViewModels
 {
-    public class AboutViewModel : BaseViewModel
+    public class HomeViewModel : BaseViewModel
     {
-        public AboutViewModel()
+        public HomeViewModel()
         {
-            Title = "About";
+            Title = "Home";
+            //TODO: Change command to ta take you to new workout page
             OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamain-quickstart"));
         }
 
